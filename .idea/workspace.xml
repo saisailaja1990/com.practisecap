@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1022c5f9-4f8d-4532-90c4-1f79c0a88534" name="Changes" comment="">
+    <list default="true" id="1022c5f9-4f8d-4532-90c4-1f79c0a88534" name="Changes" comment="first code">
+      <change afterPath="$PROJECT_DIR$/src/WindowsHandle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.practisecap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/com.practisecap.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basetest_AxCrypt_AccountSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basetest_AxCrypt_AccountSite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Broken_links.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broken_links.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Color_find.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Color_find.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simple_selenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Simple_selenium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/amazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/amazon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page_scroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/page_scroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Broken_links">
+  <component name="RunManager" selected="Application.WindowsHandle">
     <configuration name="Basetest_AxCrypt_AccountSite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basetest_AxCrypt_AccountSite" />
       <module name="com.practisecap" />
@@ -63,15 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Color_find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Color_find" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="com.practisecap" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="amazon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="amazon" />
+    <configuration name="WindowsHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WindowsHandle" />
       <module name="com.practisecap" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WindowsHandle" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Broken_links" />
         <item itemvalue="Application.Basetest_AxCrypt_AccountSite" />
         <item itemvalue="Application.page_scroll" />
-        <item itemvalue="Application.Color_find" />
-        <item itemvalue="Application.amazon" />
       </list>
     </recent_temporary>
   </component>
@@ -103,6 +97,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663921781186</updated>
     </task>
+    <task id="LOCAL-00001" summary="first code">
+      <created>1664532887281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664532887282</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +113,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -127,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first code" />
+    <option name="LAST_COMMIT_MESSAGE" value="first code" />
   </component>
 </project>
